@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hideout", "Hideout\Hideout.csproj", "{C1F56698-AF74-4F71-AA95-BE792D321BB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShakeIt", "ShakeIt\ShakeIt.csproj", "{F4E011AF-06C2-4A6A-AE21-7BAFA4E8338F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubStringFound", "SubStringFound\SubStringFound.csproj", "{48F6EAB5-85C5-468F-9329-9EC20FF6F1A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1F56698-AF74-4F71-AA95-BE792D321BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F56698-AF74-4F71-AA95-BE792D321BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F56698-AF74-4F71-AA95-BE792D321BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F56698-AF74-4F71-AA95-BE792D321BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4E011AF-06C2-4A6A-AE21-7BAFA4E8338F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E011AF-06C2-4A6A-AE21-7BAFA4E8338F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E011AF-06C2-4A6A-AE21-7BAFA4E8338F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E011AF-06C2-4A6A-AE21-7BAFA4E8338F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48F6EAB5-85C5-468F-9329-9EC20FF6F1A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F6EAB5-85C5-468F-9329-9EC20FF6F1A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F6EAB5-85C5-468F-9329-9EC20FF6F1A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F6EAB5-85C5-468F-9329-9EC20FF6F1A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1520F3A3-DA82-41B4-BEBA-5DC3E7FAF653}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+D:\homeworke\StringMethods\Hideout\bin\Debug\net8.0\Hideout.exe
+D:\homeworke\StringMethods\Hideout\bin\Debug\net8.0\Hideout.deps.json
+D:\homeworke\StringMethods\Hideout\bin\Debug\net8.0\Hideout.runtimeconfig.json
+D:\homeworke\StringMethods\Hideout\bin\Debug\net8.0\Hideout.dll
+D:\homeworke\StringMethods\Hideout\bin\Debug\net8.0\Hideout.pdb
+D:\homeworke\StringMethods\Hideout\obj\Debug\net8.0\Hideout.GeneratedMSBuildEditorConfig.editorconfig
+D:\homeworke\StringMethods\Hideout\obj\Debug\net8.0\Hideout.AssemblyInfoInputs.cache
+D:\homeworke\StringMethods\Hideout\obj\Debug\net8.0\Hideout.AssemblyInfo.cs
+D:\homeworke\StringMethods\Hideout\obj\Debug\net8.0\Hideout.csproj.CoreCompileInputs.cache
+D:\homeworke\StringMethods\Hideout\obj\Debug\net8.0\Hideout.dll
+D:\homeworke\StringMethods\Hideout\obj\Debug\net8.0\refint\Hideout.dll
+D:\homeworke\StringMethods\Hideout\obj\Debug\net8.0\Hideout.pdb
+D:\homeworke\StringMethods\Hideout\obj\Debug\net8.0\Hideout.genruntimeconfig.cache
+D:\homeworke\StringMethods\Hideout\obj\Debug\net8.0\ref\Hideout.dll
